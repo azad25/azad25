@@ -6,11 +6,9 @@ GO|python|React|Next.js|Typescript
 
 I'm a passionate developer from Dhaka, Bangladesh, specializing in:
 
-- **Programming Languages:** Python, Go
+- **Programming Languages:** Python, Go, Javascript
 - **Cloud Platforms:** Google Cloud (GCP), AWS
 - **AI and Machine Learning:** Gemini, Llama, OpenAI
-- **Software Architecture:** Microservices
-- **Application Development:** LLM-based applications
 
 As an open-source contributor, I enjoy collaborating on innovative projects and leveraging technology to solve real-world problems.
 
