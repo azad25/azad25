@@ -7,7 +7,7 @@ GO|python|React|Next.js|Typescript
 I'm a passionate developer from Dhaka, Bangladesh, specializing in:
 
 - **Programming Languages:** Python, Go, Javascript
-- **Cloud Platforms:** Google Cloud (GCP), AWS
+- **Cloud/Deploymentt Platforms:** Docker,Kubernetes,Git,Google Cloud (GCP), AWS
 - **AI and Machine Learning:** Gemini, Llama, OpenAI
 
 As an open-source contributor, I enjoy collaborating on innovative projects and leveraging technology to solve real-world problems.
@@ -16,11 +16,11 @@ As an open-source contributor, I enjoy collaborating on innovative projects and 
 
 Here are some of my notable projects:
 
-- **AdminAI:** A modern, AI-powered administration dashboard combining robust backend services with an intuitive frontend interface. Built with TypeScript, React, and Node.js, it provides real-time analytics and management features.
+- **ERP Suite-SaaS Platform:** A subscription-based SaaS ERP platform with 14 independent microservices and embedded AI capabilities.
 
-- **WebChat v1.0:** An AI chatbot utilizing the Llama 3.2/Gemini model, offering interactive and intelligent conversational experiences.
+- **WebChat:** An AI chatbot utilizing the Gemini llm model, offering interactive and intelligent conversational experiences with ai url analysis.
 
-- **Landmarks iOS App:** An iOS application that lists popular places using Apple's MapKit, featuring detailed views and seamless navigation.
+- **Infrastructure Generator:** A docker and go based cli application environment generator with docker compose and makefile
 
 ## Connect with Me
 
