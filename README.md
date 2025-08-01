@@ -1,26 +1,25 @@
 # Ferdous Azad
-GO|python|React|Next.js|Typescript
+Microservices|Docker|GO|python|React|Next.js|Typescript|AWS|GCP
 
 
 ## About Me
-
-I'm a passionate developer from Dhaka, Bangladesh, specializing in:
-
 - **Programming Languages:** Python, Go, Javascript
 - **Cloud/Deploymentt Platforms:** Docker,Kubernetes,Git,Google Cloud (GCP), AWS
 - **AI and Machine Learning:** Gemini, Llama, OpenAI
+- **Architecture:** Distributed systems,microservices,RAG Model
 
-As an open-source contributor, I enjoy collaborating on innovative projects and leveraging technology to solve real-world problems.
+
+I enjoy collaborating on innovative projects and leveraging technology to solve real-world problems.
 
 ## Featured Projects
 
 Here are some of my notable projects:
 
-- **ERP Suite-SaaS Platform:** A subscription-based SaaS ERP platform with 14 independent microservices and embedded AI capabilities.
+- **ERP Suite-SaaS Platform:** A subscription-based SaaS ERP platform with 14 independent microservices and embedded AI capabilities, Developed a Unified Infrastructure for distribyted mmicroservices and core development tools managed via network of docker containers with application wide environment configuration .
 
-- **WebChat:** An AI chatbot utilizing the Gemini llm model, offering interactive and intelligent conversational experiences with ai url analysis.
+- **WebChat:** An AI chatbot utilizing the Gemini llm model, offering interactive and intelligent conversational experiences with ai url analysis,images,link and tags generation from scraping the url.
 
-- **Infrastructure Generator:** A docker and go based cli application environment generator with docker compose and makefile
+- **Infrastructure Generator:** A docker and go based cli application environment generator with docker compose and makefile. Easily setup docker based application environment with this cli tool to generate application services with docker files.
 
 ## Connect with Me
 
@@ -29,5 +28,3 @@ Here are some of my notable projects:
 - **Instagram:** [@ferdosazad](https://www.instagram.com/ferdosazad)
 
 Feel free to reach out through these platforms. I'm always open to discussing new projects, collaborations, or opportunities to contribute to exciting developments.
-
-Thank you for visiting my profile!
