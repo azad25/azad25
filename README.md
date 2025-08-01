@@ -5,8 +5,7 @@ Microservices|Docker|GO|python|React|Next.js|Typescript|AWS|GCP
 ## About Me
 - **Programming Languages:** Python, Go, Javascript, Typescript, PHP, Node.js, React Js
 - **Cloud/Deploymentt Platforms:** Docker,Kubernetes,Git,Google Cloud (GCP), AWS
-- **AI and Machine Learning:** Gemini, Llama, OpenAI
-- **Architecture:** Distributed systems,microservices,RAG Model
+- **Architecture:** Distributed systems,microservices,AI RAG for LLM models(Gemini, Llama, OpenAI)
 
 
 I enjoy collaborating on innovative projects and leveraging technology to solve real-world problems.
