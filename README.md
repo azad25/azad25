@@ -18,7 +18,7 @@ Full Stack Developer
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)
 
-### Databases,Messaging,Cache,Messaging and communications 
+### Database,caching and queue
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/MongoDB-316192?style=flat&logo=mongodb&logoColor=green)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -37,9 +37,6 @@ Full Stack Developer
 
 ![AWS](https://img.shields.io/badge/AWS-0F1689?style=flat&logo=aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-0F1689?style=flat&logo=gcp&logoColor=blue)
-
-
-I enjoy collaborating on innovative projects and leveraging technology to solve real-world problems.
 
 ## Featured Projects
 
