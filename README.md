@@ -45,7 +45,7 @@ I enjoy collaborating on innovative projects and leveraging technology to solve 
 
 Here are some of my notable projects:
 
-- **[ERP Suite-SaaS Platform:](https://github.com/azad25/erp-suite-infrastructure)** A subscription-based SaaS ERP platform with 14 independent microservices and embedded AI capabilities, Developed a Unified Infrastructure for distribyted mmicroservices and core development tools managed via network of docker containers with application wide environment configuration .
+- **[ERP Suite-SaaS Platform:](https://github.com/azad25/erp-suite-infrastructure)** A subscription-based SaaS ERP platform with 14 independent microservices and embedded AI capabilities, Developed a Unified Infrastructure for distributed microservices and core development tools managed via network of docker containers with application wide environment configuration .
 
 - **[Google Gemini AI Chatbot:](https://github.com/azad25/WebChatv1.0)** An AI chatbot utilizing the Gemini llm model, offering interactive and intelligent conversational experiences with ai url analysis,images,link and tags generation from scraping the url.
 
