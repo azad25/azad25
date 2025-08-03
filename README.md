@@ -44,9 +44,11 @@ Here are some of my notable projects:
 
 - **[ERP Suite-SaaS Platform:](https://github.com/azad25/erp-suite-infrastructure)** A subscription-based SaaS ERP platform with 14 independent microservices and embedded AI capabilities, Developed a Unified Infrastructure for distributed microservices and core development tools managed via network of docker containers with application wide environment configuration .
 
+-  **[Infrastructure Generator:](https://github.com/azad25/infrastructure-generator)** A docker and go based cli application environment generator with docker compose and makefile. Easily setup docker based application environment with this cli tool to generate application services with docker files.
+
 - **[Google Gemini AI Chatbot:](https://github.com/azad25/WebChatv1.0)** An AI chatbot utilizing the Gemini llm model, offering interactive and intelligent conversational experiences with ai url analysis,images,link and tags generation from scraping the url.
 
--  **[Infrastructure Generator:](https://github.com/azad25/infrastructure-generator)** A docker and go based cli application environment generator with docker compose and makefile. Easily setup docker based application environment with this cli tool to generate application services with docker files.
+- **[Admin AI Chatbot:](https://github.com/azad25/admin-ai)** A ai provider based chatbot app with customizable ai provider settings for openai,claude,gemini with material admin panel and chatbot ui.
 
 ## Connect with Me
 
