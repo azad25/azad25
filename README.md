@@ -13,8 +13,11 @@ Full Stack Developer
 
 ### AI/LLM
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-3776AB?style=flat&logo=HuggingFace&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-092E20?style=flat&logo=OpenAPI&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-092E20?style=flat&logo=OpenAPI&logoColor=white)
 ![GeminiAPI](https://img.shields.io/badge/Gemini-ff1709?style=flat&logo=Gemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-3776AB?style=flat&logo=LangChain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-3776AB?style=flat&logo=LangGraph&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-3776AB?style=flat&logo=RAG&logoColor=white)
 
 ### Frontend & UI
 ![Next.js](https://img.shields.io/badge/Next.js_14+-000000?style=flat&logo=next.js&logoColor=white)
