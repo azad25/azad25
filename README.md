@@ -46,9 +46,9 @@ Here are some of my notable projects:
 
 -  **[Infrastructure Generator:](https://github.com/azad25/infrastructure-generator)** A docker and go based cli application environment generator with docker compose and makefile. Easily setup docker based application environment with this cli tool to generate application services with docker files.
 
-- **[Google Gemini AI Chatbot:](https://github.com/azad25/WebChatv1.0)** An AI chatbot utilizing the Gemini llm model, offering interactive and intelligent conversational experiences with ai url analysis,images,link and tags generation from scraping the url.
+- - **[RAG based AI chatbot:](https://github.com/azad25/RAG-QA-CHAT)** A Q/A AI chatbot service using fastapi,langchain,huggingface API for answering question using on document knowledge source
 
-- **[Admin AI Chatbot:](https://github.com/azad25/admin-ai)** A ai provider based chatbot app with customizable ai provider settings for openai,claude,gemini with material admin panel and chatbot ui.
+- **[Google Gemini AI Chatbot:](https://github.com/azad25/WebChatv1.0)** An AI chatbot utilizing the Gemini llm model, offering interactive and intelligent conversational experiences with ai url analysis,images,link and tags generation from scraping the url.
 
 ## Connect with Me
 
