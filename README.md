@@ -11,6 +11,11 @@ Full Stack Developer
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Go Gin Router](https://img.shields.io/badge/gin-00ADD8?style=flat&logo=go&logoColor=white)
 
+### AI/LLM
+![HuggingFace](https://img.shields.io/badge/HuggingFace-3776AB?style=flat&logo=HuggingFace&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-092E20?style=flat&logo=OpenAPI&logoColor=white)
+![GeminiAPI](https://img.shields.io/badge/Gemini-ff1709?style=flat&logo=Gemini&logoColor=white)
+
 ### Frontend & UI
 ![Next.js](https://img.shields.io/badge/Next.js_14+-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -30,13 +35,9 @@ Full Stack Developer
 
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-0F1689?style=flat&logo=aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-0F1689?style=flat&logo=gcp&logoColor=blue)
+![AWS](https://img.shields.io/badge/AWS-0F1689?style=flat&logo=AWS&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google-Cloud-0F1689?style=flat&logo=GoogleCloud&logoColor=blue)
 
 ## Featured Projects
 
@@ -44,11 +45,11 @@ Here are some of my notable projects:
 
 - **[ERP Suite-SaaS Platform:](https://github.com/azad25/erp-suite-infrastructure)** A subscription-based SaaS ERP platform with 14 independent microservices and embedded AI capabilities, Developed a Unified Infrastructure for distributed microservices and core development tools managed via network of docker containers with application wide environment configuration .
 
--  **[Infrastructure Generator:](https://github.com/azad25/infrastructure-generator)** A docker and go based cli application environment generator with docker compose and makefile. Easily setup docker based application environment with this cli tool to generate application services with docker files.
+- **[Streaming Platform:](https://github.com/azad25/homeflix-wifi)** HomeFlix streaming platform with torrent download,developed with Golang,FFmpeg,Redis & Next.js frontend. Stream your media collection with a beautiful Netflix-like UI, featuring smart categorization, thumbnails, subtitles, and responsive design. Search IMDB movies, Download movies/tv-shows/subtitles, watch new trailers, manage personal media collection
 
-- - **[RAG based AI chatbot:](https://github.com/azad25/RAG-QA-CHAT)** A Q/A AI chatbot service using fastapi,langchain,huggingface API for answering question using on document knowledge source
+- **[RAG based AI chatbot:](https://github.com/azad25/RAG-QA-CHAT)** A Q/A AI chatbot service using fastapi,langchain,huggingface API for answering question using on document knowledge source
 
-- **[Google Gemini AI Chatbot:](https://github.com/azad25/WebChatv1.0)** An AI chatbot utilizing the Gemini llm model, offering interactive and intelligent conversational experiences with ai url analysis,images,link and tags generation from scraping the url.
+- **[Google Gemini AI Chatbot:](https://github.com/azad25/WebChatv1.0)** An AI chatbot utilizing the Gemini llm model, offering interactive and intelligent conversational experiences with AI based url source analysis,images,link and tags generation from scraping the url.
 
 ## Connect with Me
 
