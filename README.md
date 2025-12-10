@@ -50,7 +50,7 @@ Here are some of my notable projects:
 
 - **[Streaming Platform:](https://github.com/azad25/homeflix-wifi)** HomeFlix streaming platform with torrent download,developed with Golang,FFmpeg,Redis & Next.js frontend. Stream your media collection with a beautiful Netflix-like UI, featuring smart categorization, thumbnails, subtitles, and responsive design. Search IMDB movies, Download movies/tv-shows/subtitles, watch new trailers, manage personal media collection
 
-- **[Finantial AI Assistant:](https://github.com/azad25/moneymind-finance-ai-agent)** AI-powered financial assistant designed to handle accounts,balance,expenses, budgets, subscriptions, currency conversions, and real-time financial intelligence through natural language.
+- **[MoneyMind - Financial AI Assistant:](https://github.com/azad25/moneymind-finance-ai-agent)** AI-powered financial assistant designed to handle accounts,balance,expenses, budgets, subscriptions, currency conversions, and real-time financial intelligence through natural language.
 
 - **[Google Gemini AI Chatbot:](https://github.com/azad25/WebChatv1.0)** An AI chatbot utilizing the Gemini llm model, offering interactive and intelligent conversational experiences with AI based url source analysis,images,link and tags generation from scraping the url.
 
