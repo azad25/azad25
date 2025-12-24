@@ -42,18 +42,6 @@ Full Stack Developer
 ![AWS](https://img.shields.io/badge/AWS-0F1689?style=flat&logo=AWS&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google-Cloud-0F1689?style=flat&logo=GoogleCloud&logoColor=blue)
 
-## Featured Projects
-
-Here are some of my notable projects:
-
-- **[ERP Suite-SaaS Platform:](https://github.com/azad25/erp-suite-infrastructure)** A subscription-based SaaS ERP platform with 14 independent microservices and embedded AI capabilities, Developed a Unified Infrastructure for distributed microservices and core development tools managed via network of docker containers with application wide environment configuration .
-
-- **[Streaming Platform:](https://github.com/azad25/homeflix-wifi)** HomeFlix streaming platform with torrent download,developed with Golang,FFmpeg,Redis & Next.js frontend. Stream your media collection with a beautiful Netflix-like UI, featuring smart categorization, thumbnails, subtitles, and responsive design. Search IMDB movies, Download movies/tv-shows/subtitles, watch new trailers, manage personal media collection
-
-- **[MoneyMind - Financial AI Assistant:](https://github.com/azad25/moneymind-finance-ai-agent)** AI-powered financial assistant designed to handle accounts,balance,expenses, budgets, subscriptions, currency conversions, and real-time financial intelligence through natural language.
-
-- **[Google Gemini AI Chatbot:](https://github.com/azad25/WebChatv1.0)** An AI chatbot utilizing the Gemini llm model, offering interactive and intelligent conversational experiences with AI based url source analysis,images,link and tags generation from scraping the url.
-
 ## Connect with Me
 
 - **LinkedIn:** [Ferdous Azad Sadi](https://www.linkedin.com/in/ferdous-azad-sadi-8b392385)
